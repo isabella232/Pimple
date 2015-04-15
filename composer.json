@@ -1,7 +1,7 @@
 {
-    "name": "pimple/pimple",
+    "name": "npr/pimple",
     "type": "library",
-    "description": "Pimple is a simple Dependency Injection Container for PHP 5.3",
+    "description": "Pimple is a simple Dependency Injection Container for PHP 5.3, NPR's flavor does away with freezing services as PDO close connection needs this behavior.",
     "keywords": ["dependency injection", "container"],
     "homepage": "http://pimple.sensiolabs.org",
     "license": "MIT",
