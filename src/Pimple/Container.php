@@ -24,7 +24,7 @@
  * THE SOFTWARE.
  */
 
-namespace Pimple;
+namespace NPR\Pimple;
 
 /**
  * Container main class.
