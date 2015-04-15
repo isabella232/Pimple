@@ -112,7 +112,7 @@ class Container implements \ArrayAccess
         $val = $this->values[$id] = $raw($this);
         $this->raw[$id] = $raw;
 
-        $this->frozen[$id] = true;
+        // $this->frozen[$id] = true;
 
         return $val;
     }
